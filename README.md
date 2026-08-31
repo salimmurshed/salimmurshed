@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salimmurshed&color=red&theme=radical" />
+</p>
 
-<!--
-**salimmurshed/salimmurshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  <b>Salim Murshed</b>
+  <small>  <small>Frontend Engineer</small></small>
+</h1>
+<span>Senior Software Engineer (Flutter) | Mobile &amp; Backend Architecture</span>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salimmurshed&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salimmurshed&theme=radical" />
+</p>
+
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salimmurshed&theme=radical" />
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salimmurshed&theme=radical"  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salimmurshed&theme=radical&utcOffset=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salimmurshed&theme=radical" />
