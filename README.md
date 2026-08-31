@@ -1,12 +1,4 @@
 <p align="center">
-  <img src="https://salimmurshed.vercel.app/api/v1/stackoverflow?id=9202118&site=stackoverflow&v=1" alt="Salim Murshed Stack Overflow Statistics" width="900">
-</p>
-
-<p align="center">
-  <img src="https://salimmurshed.vercel.app/api/v1/sov?id=9202118" alt="Salim Murshed Stack Overflow Statistics" width="900">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=salimmurshed&color=red&theme=radical" />
 </p>
 
@@ -15,6 +7,16 @@
   <small>  <small>Frontend Engineer</small></small>
 </h1>
 <span>Senior Software Engineer (Flutter) | Mobile &amp; Backend Architecture</span>
+
+
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/stackoverflow?id=9202118&site=stackoverflow&v=1" alt="Salim Murshed Stack Overflow Statistics" width="900">
+</p>
+
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/sov?id=9202118" alt="Salim Murshed Stack Overflow Statistics" width="900">
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salimmurshed&theme=radical" />
