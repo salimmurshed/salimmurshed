@@ -18,9 +18,11 @@
 
 
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salimmurshed&theme=radical" />
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salimmurshed&theme=radical"  />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salimmurshed&theme=radical&utcOffset=6" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salimmurshed&theme=radical" />
+<p align="center">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salimmurshed&theme=radical" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salimmurshed&theme=radical"  />
+  </p>
+<p align="center">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salimmurshed&theme=radical&utcOffset=6" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salimmurshed&theme=radical" />
+</p>
