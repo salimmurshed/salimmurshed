@@ -10,7 +10,14 @@
 <p></p>
 <p></p>
 <p></p>
-
+<p align="center">
+  <a href="https://salimmurshed.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-salimmurshed.vercel.app-blue?style=for-the-badge" />
+  </a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p align="center">
   <img src="https://salimmurshed.vercel.app/api/v1/stackoverflow?id=9202118&site=stackoverflow&v=1" alt="Salim Murshed Stack Overflow Statistics" width="900">
 </p>
