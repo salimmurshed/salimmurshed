@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salimmurshed&theme=radical" />
+  <img src="https://salimmurshed.vercel.app/api/v1/github-stats?username=salimmurshed" />
 </p>
 
 
