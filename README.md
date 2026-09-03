@@ -35,7 +35,27 @@
   <img src="https://salimmurshed.vercel.app/api/v1/github-stats?username=salimmurshed" />
 </p>
 
-
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/git-stat?username=salimmurshed&year=2020" alt="">
+</p>
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/git-stat?username=salimmurshed&year=2021" alt="">
+</p>
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/git-stat?username=salimmurshed&year=2022" alt="">
+</p>
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/git-stat?username=salimmurshed&year=2023" alt="">
+</p>
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/git-stat?username=salimmurshed&year=2024" alt="">
+</p>
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/git-stat?username=salimmurshed&year=2025" alt="">
+</p>
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/git-stat?username=salimmurshed&year=2026" alt="">
+</p>
 
 <p align="center">
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salimmurshed&theme=radical" />
