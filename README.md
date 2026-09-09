@@ -21,7 +21,43 @@
 <p align="center">
   <img src="https://salimmurshed.vercel.app/api/v1/stackoverflow?id=9202118&site=stackoverflow&v=1" alt="Salim Murshed Stack Overflow Statistics" width="900">
 </p>
+<div align="center">
 
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://pub.dev/packages/dicon" target="_blank">
+          <h2>🚀 dicon 0.0.1</h2>
+          <p><strong>It is modern icons.</strong></p>
+          <p><strong>→ Flutter Pub</strong></p>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://pub.dev/packages/sm_icons" target="_blank">
+          <h2>🧩 sm_icons 0.0.1</h2>
+          <p>Modern social icons pack.</p>
+          <p><strong>→ Flutter Pub</strong></p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://pub.dev/packages/many_icons" target="_blank">
+          <h2>🚀 many_icons 1.0.3</h2>
+          <p><strong>It is modern icons.</strong></p>
+          <p><strong>→ Flutter Pub</strong></p>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://pub.dev/packages/d_spin_wheel" target="_blank">
+          <h2>🧩 d_spin_wheel 0.0.1</h2>
+          <p>A Flutter spin wheel, spin and get result.</p>
+          <p><strong>→ Flutter Pub</strong></p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center">
   <img src="https://salimmurshed.vercel.app/api/v1/sov?id=9202118" alt="Salim Murshed Stack Overflow Statistics" width="900">
 </p>
