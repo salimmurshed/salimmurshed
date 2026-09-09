@@ -28,28 +28,28 @@
     <tr>
       <td width="25%" align="center">
         <a href="https://pub.dev/packages/dicon" target="_blank">
-          <h2>🚀 dicon 0.0.1</h2>
+          <h2>🚀 dicon</h2>
           <p><strong>It is modern icons.</strong></p>
           <p><strong>→ Flutter Pub</strong></p>
         </a>
       </td>
       <td width="25%" align="center">
         <a href="https://pub.dev/packages/sm_icons" target="_blank">
-          <h2>🧩 sm_icons 0.0.1</h2>
+          <h2>🧩 sm_icons</h2>
           <p>Modern social icons pack.</p>
           <p><strong>→ Flutter Pub</strong></p>
         </a>
       </td>
       <td width="25%" align="center">
         <a href="https://pub.dev/packages/many_icons" target="_blank">
-          <h2>🚀 many_icons 1.0.3</h2>
+          <h2>🚀 many_icons</h2>
           <p><strong>It is modern icons.</strong></p>
           <p><strong>→ Flutter Pub</strong></p>
         </a>
       </td>
       <td width="25%" align="center">
         <a href="https://pub.dev/packages/d_spin_wheel" target="_blank">
-          <h2>🧩 d_spin_wheel 0.0.1</h2>
+          <h2>🧩 d_spin_wheel</h2>
           <p>A Flutter spin wheel, spin and get result.</p>
           <p><strong>→ Flutter Pub</strong></p>
         </a>
