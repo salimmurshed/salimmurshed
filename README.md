@@ -18,9 +18,6 @@
 <p></p>
 <p></p>
 <p></p>
-<p align="center">
-  <img src="https://salimmurshed.vercel.app/api/v1/stackoverflow?id=9202118&site=stackoverflow&v=1" alt="Salim Murshed Stack Overflow Statistics" width="900">
-</p>
 <div align="center">
 
   <table>
@@ -39,8 +36,7 @@
           <p><strong>→ Flutter Pub</strong></p>
         </a>
       </td>
-    </tr>
-    <tr>
+ 
       <td width="50%" align="center">
         <a href="https://pub.dev/packages/many_icons" target="_blank">
           <h2>🚀 many_icons 1.0.3</h2>
@@ -58,6 +54,10 @@
     </tr>
   </table>
 </div>
+<p align="center">
+  <img src="https://salimmurshed.vercel.app/api/v1/stackoverflow?id=9202118&site=stackoverflow&v=1" alt="Salim Murshed Stack Overflow Statistics" width="900">
+</p>
+
 <p align="center">
   <img src="https://salimmurshed.vercel.app/api/v1/sov?id=9202118" alt="Salim Murshed Stack Overflow Statistics" width="900">
 </p>
